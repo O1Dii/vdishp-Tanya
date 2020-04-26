@@ -1,0 +1,13 @@
+название проекта,название задачи,id задачи,трудоёмкость,исполнитель
+Swelte,Task1,1,1,Алексей
+React,Task1,2,2,Андрей
+Redux,Task1,3,3,Александр
+NumPy,Task1,4,4,Олег
+Pandas,Task1,5,5,Олег
+SciPy,Task1,6,5,Олег
+React,Task2,7,6,Иван
+Redux,Task2,8,6,Алексей
+React,Task3,9,8,Максим
+Pandas,Task2,10,7,-
+Django,Task2,11,5,-
+FastApi,Task1,12,8,Андрей
